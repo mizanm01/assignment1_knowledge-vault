@@ -161,3 +161,36 @@ main .note-section .card h2 {
   font-weight: 600;
   margin-bottom: 16px;
 }
+/* brain section */
+main .brain-section {
+  margin: 120px auto;
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+}
+main .brain-section .left-part {
+  width: 600px;
+  max-width: 600px;
+}
+main .brain-section .left-part img {
+  width: 100%;
+}
+main .brain-section .right-part {
+  width: 700px;
+  max-width: 700px;
+  margin: auto;
+  height: 400px;
+}
+main .brain-section .right-part h4 {
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+main .brain-section .right-part p {
+  margin-bottom: 40px;
+}
+main .brain-section .right-part div {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 16px;
+  font-weight: 500;
+}
