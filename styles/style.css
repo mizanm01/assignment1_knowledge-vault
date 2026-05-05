@@ -194,3 +194,18 @@ main .brain-section .right-part div {
   margin-bottom: 16px;
   font-weight: 500;
 }
+
+/* think more section */
+main .thinkmore-section {
+  padding: 80px 40px;
+  margin-bottom: 120px;
+  text-align: center;
+  background: #f7f6f2;
+  border-radius: 12px;
+}
+main .thinkmore-section .para-1 {
+  margin-bottom: 24px;
+}
+main .thinkmore-section button {
+  margin-bottom: 16px;
+}
