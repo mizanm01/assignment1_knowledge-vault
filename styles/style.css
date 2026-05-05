@@ -118,3 +118,46 @@ header nav ul a:hover {
 header {
   margin-bottom: 0;
 }
+
+/* main */
+/* note section */
+main {
+  padding: 0px 120px;
+}
+main p {
+  color: #627382;
+}
+main .note-section {
+  padding-top: 48px;
+}
+main .note-section {
+  text-align: center;
+  margin-top: 0;
+}
+main .note-section p {
+  margin-bottom: 44px;
+}
+main .note-section .cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+main .note-section .cards img {
+  background: #f95555;
+  border-radius: 1000px;
+  width: 60px;
+  padding: 14px;
+  margin-bottom: 16px;
+}
+main .note-section .card {
+  border-radius: 8px;
+  padding: 24px;
+  width: 322px;
+  height: 300px;
+  box-shadow: 0 0 5px #d9d8d8;
+}
+main .note-section .card h2 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
